@@ -14,10 +14,6 @@
   <img alt="project image" title="" src="" />
 </div> 
 
-<div align="center">
-  <img alt="project image" title="" src="" />
-</div> 
-
 <br></br>
 
 ## 🚀 Getting started
@@ -48,6 +44,7 @@ $ npm run dev:server
 ```
 
 The app will be available on `http://localhost:5173/`
+The server will be available on `http://localhost:3000/`
 
 <br></br>
 
@@ -65,7 +62,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 .
+💰Project to manage finances.
 
 <br></br>
 
@@ -74,6 +71,8 @@ This project was developed with the following technologies:
 
 <br></br>
 
-Made with ♥ by Pedro Dias. 👋 Follow me on social media!<br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media!
+
+<br></br>
 
 If you can give a little star, I appreciate it 🤩
