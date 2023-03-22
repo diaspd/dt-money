@@ -25,7 +25,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/diaspd/
+$ git clone https://github.com/diaspd/dt-money.git
 $ cd 
 ```
 
@@ -39,6 +39,12 @@ $ npm install
 
 ```bash
 $ npm run dev
+```
+
+## Running the Json Server
+
+```bash
+$ npm run dev:server
 ```
 
 The app will be available on `http://localhost:5173/`
