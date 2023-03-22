@@ -14,6 +14,10 @@
   <img alt="project image" title="" src="./public/capa.svg" />
 </div> 
 
+<div align="center">
+  <img alt="project image" title="" src="./public/example.gif" />
+</div> 
+
 <br></br>
 
 ## 🚀 Getting started
