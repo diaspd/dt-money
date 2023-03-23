@@ -47,7 +47,7 @@ $ npm run dev
 $ npm run dev:server
 ```
 
-The app will be available on `http://localhost:5173/`
+The app will be available on `http://localhost:5173/` </br>
 The server will be available on `http://localhost:3000/`
 
 <br></br>
@@ -77,6 +77,6 @@ This project was developed with the following technologies:
 
 Made with ♥ by Pedro Dias. 👋 Follow me on social media!
 
-<br></br>
+</br>
 
 If you can give a little star, I appreciate it 🤩
