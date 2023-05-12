@@ -8,7 +8,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </div>
 
-<br></br>
+---
 
 <div align="center">
   <img alt="project image" title="" src="./public/capa.svg" />
@@ -66,7 +66,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰Project to manage finances.
+💰Project to manage finances. Using concepts to how to work with a API, Axios, useCallback, useMemo.
 
 <br></br>
 
