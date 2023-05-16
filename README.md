@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img alt="project image" title="" src="./public/capa.svg" />
+  <img alt="project image" title="" src="./public/Capa.svg" />
 </div> 
 
 <div align="center">
