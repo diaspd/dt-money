@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="" /> <h1> DT Money </h1>
+   <h1> DT Money </h1>
 </div> 
 
 <div align="center">
